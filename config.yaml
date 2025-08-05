@@ -1,0 +1,21 @@
+# List the RSS feeds to fetch
+feed_urls:
+  - https://tarus.io/index.xml
+  - https://bananasl.com/index.xml
+  - https://forgottencocktails.com/index.xml
+  - https://adventuresinoss.com/index.xml
+
+# Max number of items to display
+num_items: 20
+# Name of the output file
+output_file: index.md
+# Title of the index.md page to be created
+yaml_title: Planet
+# Author of the page
+yaml_author: Tarus
+# Menu Item Name
+yaml_menu: Planet
+# Menu Item Weight
+yaml_weight: -70
+# Menu Item Icon
+yaml_icon: planet
